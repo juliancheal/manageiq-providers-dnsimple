@@ -1,0 +1,12 @@
+---
+:ems:
+  :ems_dnsimple:
+    :blacklisted_event_names: []
+    :event_handling:
+      :event_groups:
+:http_proxy:
+  :dnsimple:
+    :host:
+    :password:
+    :port:
+    :user:
